@@ -1,0 +1,6 @@
+nltk
+tqdm
+setuptools
+tensorflow
+tensorflow-gpu
+keras
